@@ -1,4 +1,6 @@
-# HTML Forms and Params
+
+
++++# HTML Forms and Params
 
 ## Overview
 
@@ -10,7 +12,9 @@ user.
 
 1. Build a basic HTML form
 2. Connect an HTML form to a Sinatra application via the `method` and `action` attributes
-3. Build a `POST` route in Sinatra's application controller to accept data from a form via params.
+3. 
+4. 
+5. Build a `POST` route in Sinatra's application controller to accept data from a form via params.
 4. Define params as a Ruby hash containing form data.
 
 ![Green Eggs and Ham](https://s3.amazonaws.com/learn-verified/green-eggs-ham.jpeg)
